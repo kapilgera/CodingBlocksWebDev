@@ -6,6 +6,9 @@ div button:hover{
     background-color: lightgray
 }
 
+#nav{
+    color: black;
+}
 
 textarea{
     border: 0px solid white;
